@@ -5,6 +5,3 @@ this will be a list:
 - one
 - two
 - three
-
-
-
